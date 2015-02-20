@@ -1,0 +1,16 @@
+Intensity
+S,0,5,Blackout
+V,6,255,
+Duration
+V,0,255,
+Rate
+S,0,5,Off
+V,6,255,
+Effects
+S,0,5,Off
+S,6,42,RampUp
+S,43,85,RampDn
+S,86,128,RampBoth
+S,129,171,Random
+S,172,214,Lightning
+S,215,255,Spikes

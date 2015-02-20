@@ -1,0 +1,148 @@
+Shutter
+S,0,19,Closed
+S,20,49,Open
+V,50,72,Strobe
+S,73,79,Open
+V,80,99,PulsA
+V,100,119,PulsB
+S,120,127,Open
+S,128,147,StrobeF
+S,148,167,StrobeM
+S,168,187,StrobeS
+S,188,190,Open
+S,191,193,PulsA Fast
+S,194,196,PulsA Slow
+S,197,199,PulsB Fast
+S,200,202,PulsB Slow
+S,203,207,Open
+S,208,217,RESET
+S,218,227,Open
+S,228,237,Lamp On
+S,238,247,Open
+S,248,255,Lamp Off
+Dimmer
+D,0,255,
+Color
+S,0,10,White
+s,11,21,CTC
+S,22,32,Yellow 603
+S,33,43,Blue 104
+S,44,54,Pink 312
+S,55,65,Green 206
+S,66,76,Blue 108
+S,77,87,Red 301
+S,88,98,Mag 507
+S,99,109,Blue 101
+S,110,120,Ora 306
+S,121,131,Dk Green
+S,132,142,Purp 502
+S,143,155,White
+S,156,159,White
+s,160,163,CTC
+S,164,167,Yellow 603
+S,168,171,Blue 104
+S,172,175,Pink 312
+S,176,179,Green 206
+S,180,188,Blue 108
+S,184,187,Red 301
+S,188,191,Mag 507
+S,192,195,Blue 101
+S,196,199,Ora 306
+S,200,203,Dk Green
+S,204,207,Purp 502
+V,208,226,Fwd
+V,227,245,Bwd
+S,246,248,RndFast
+S,249,251,RndMed
+S,252,255,RndSlow
+Gobo
+S,0,4,Open
+S,5,10,Index1
+S,11,15,Index2
+S,16,20,Index3
+S,21,25,Index4
+S,26,30,Index5
+S,31,35,Index6
+S,36,42,Index7
+S,43,50,Open
+S,51,58,Rotate1
+S,59,65,Rotate2
+S,66,73,Rotate3
+S,74,81,Rotate4
+S,82,89,Rotate5
+S,90,96,Rotate6
+S,97,104,Rotate7
+V,105,119,Shk7
+V,120,134,Shk6
+V,135,149,Shk5
+V,150,164,Shk4
+V,165,179,Shk3
+V,180,194,Shk2
+V,195,209,Shk1
+V,210,232,Fwd
+V,233,255,Bwd
+Rotate
+V,0,255,
+RotateF
+V,0,255,
+Gobo2
+S,0,7,Open
+S,8,15,Gobo1
+S,16,23,Gobo2
+S,24,31,Gobo3
+S,32,39,Gobo4
+S,40,47,Gobo5
+S,48,55,Gobo6
+S,56,63,Gobo7
+S,64,71,Gobo8
+S,72,79,Gobo9
+S,80,87,Gobo10
+S,88,95,Open
+V,96,105,Shk10
+V,106,115,Shk9
+V,116,125,Shk8
+V,126,135,Shk7
+V,136,145,Shk6
+V,146,155,Shk5
+V,156,165,Shk4
+V,166,175,Shk3
+V,176,185,Shk2
+V,186,195,Shk1
+V,196,205,ShkO
+V,206,230,Fwd
+V,231,255,Bwd
+Focus
+V,0,255
+Prism
+S,0,19,Off
+V,20,79,Bwd
+S,80,89,Stop
+V,90,149,Fwd
+S,150,215,Off
+S,216,220,Macro1
+S,221,225,Macro2
+S,226,230,Macro3
+S,231,235,Macro4
+S,236,240,Macro5
+S,241,245,Macro6
+S,246,250,Macro7
+S,251,255,Macro8
+Pan
+V,0,255,
+PanF
+V,0,255,
+Tilt
+V,0,255,
+TiltF
+V,0,255,
+MoveSpd
+S,0,2,Track
+V,3,242,
+S,243,245,TrackS
+S,246,248,TrackM
+S,249,251,TrackF
+S,252,255,Blackout
+FxSpd
+S,0,2,Track
+V,3,251,
+S,252,255,Blackout

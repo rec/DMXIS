@@ -1,0 +1,44 @@
+Shutter
+B,0,7,Closed
+V,8,200,
+V,201,248,Strobe
+S,249,255,Open
+Color
+S,0,7,RED
+S,8,15,Orange 1
+S,16,23,Orange 2
+S,24,31,Orange 3
+S,32,39,Orange 4
+S,40,47,YELLOW
+S,47,55,Chartr 1
+S,56,63,Chartr 2
+S,64,71,Chartr 3
+S,72,80,Chartr 4
+S,81,87,GREEN
+S,88,96,Turqoise 1
+S,97,104,Turqoise 2
+S,105,112,Turqoise 3
+S,113,119,Turqoise 4
+S,120,127,CYAN
+S,128,136,Azure 1
+S,137,144,Azure 2
+S,145,151,Azure 3
+S,152,159,Azure 4
+S,160,168,BLUE
+S,169,176,Purple 1
+S,177,184,Purple 2
+S,185,191,Purple 3
+S,192,200,Purple 4
+S,201,208,MAGENTA
+S,209,216,Pink 1
+S,217,224,Pink 2
+S,225,232,Pink 3
+S,233,240,Pink 4
+S,241,248,RED
+S,249,255,WHITE
+Rotate
+S,0,9,Stop
+V,10,120,CW
+S,121,134,Stop
+V,135,246,CCW
+S,247,255,Stop

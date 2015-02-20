@@ -1,0 +1,10 @@
+Mode
+S,0,0,Close
+V,1,127,Str
+V,128,255,Dim
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,

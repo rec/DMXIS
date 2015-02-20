@@ -1,0 +1,7 @@
+Volume
+S,0,5,Off
+V,6,255,
+Speed
+S,0,85,Slow
+S,86,170,Medium
+S,171,255,Fast

@@ -1,0 +1,6 @@
+Mode
+B,0,50,Blackout
+S,51,101,Slow
+S,102,152,Medium
+S,153,203,Fast
+S,204,255,Random

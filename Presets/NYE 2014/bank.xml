@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<Order>
+    <Preset name="001 Reset smoke" crossfade="0.000000" />
+    <Preset name="002 Smoke" crossfade="0.000000" />
+    <Preset name="003 Point at me" crossfade="0.000000" />
+    <Preset name="004 G point at me" crossfade="30.000000" />
+    <Preset name="005 B point at me" crossfade="30.000000" />
+    <Preset name="006 R point at me" crossfade="30.000000" />
+    <Preset name="007 Left" crossfade="0.000001" />
+    <Preset name="008 up" crossfade="0.000001" />
+    <Preset name="009 right" crossfade="0.000001" />
+    <Preset name="010 Macro 1" crossfade="0.000001" />
+    <Preset name="011 lights off" crossfade="0.000000" />
+    <Preset name="012 lights on" crossfade="0.000000" />
+    <Preset name="013 chase 1" crossfade="0.000000" />
+    <Preset name="014 Svengali 1" crossfade="0.000000" />
+    <Preset name="015 Svengali 2" crossfade="0.000000" />
+    <Preset name="016 Svengali 3" crossfade="0.000000" />
+    <Preset name="017 Svengali 4" crossfade="0.000000" />
+    <Preset name="018 Svengali 5" crossfade="0.000000" />
+    <Preset name="019 Macro 2" crossfade="0.000000" />
+    <Preset name="020 Macro 3" crossfade="0.000000" />
+    <Preset name="021 lasers 1" crossfade="0.000000" />
+    <Preset name="022 lasers 2" crossfade="0.000000" />
+    <Preset name="023 lasers 3" crossfade="0.000000" />
+    <Preset name="024 lasers 4" crossfade="0.000000" />
+    <Preset name="025 lasers 5" crossfade="0.000000" />
+    <Preset name="026 everything" crossfade="15.359974" />
+</Order>
+<Tempo val="120.000000" />

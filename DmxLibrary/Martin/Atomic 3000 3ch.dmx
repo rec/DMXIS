@@ -1,0 +1,8 @@
+Intensity
+S,0,5,Blackout
+V,6,255,
+Duration
+V,0,255,
+Rate
+S,0,5,Off
+V,6,255,

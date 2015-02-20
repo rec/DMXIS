@@ -1,0 +1,55 @@
+Pan
+V,0,255,
+Tilt
+V,0,255,
+PanF
+V,0,255,
+TiltF
+V,0,255,
+Speed
+S,0,0,FAST
+V,1,249,VarSpd
+S,250,252,B/O-Col
+S,253,255,B/O-Mov
+Colors
+S,0,9,White
+S,10,20,Turq
+S,21,31,Red
+S,32,41,Cyan
+S,42,52,LtGreen
+S,53,63,Magenta
+S,64,73,LtBlue
+S,74,84,Yellow
+S,85,95,Green
+S,96,105,Pink
+S,106,116,Blue
+S,117,127,Orange
+V,128,189,Fwd
+S,190,193,Stop
+V,194,255,Rev
+Gobo
+S,0,11,Open
+S,12,23,Gobo 1
+S,24,35,Gobo 2
+S,36,47,Gobo 3
+S,48,59,Gobo 4
+S,60,71,Gobo 5
+S,72,83,Gobo 6
+S,84,95,Gobo 7
+V,96,255,Shk
+GoboRot
+V,0,127,Rot
+V,128,189,Fwd
+S,190,193,Stop
+V,194,255,Rev
+ShutStrobe
+B,0,0,Closed
+D,0,63,
+S,64,95,Full
+V,96,127,Str
+S,128,139,Reset
+S,140,159,Closed
+V,160,175,P+
+V,176,191,P-
+V,192,233,Rand
+S,224,255,Open

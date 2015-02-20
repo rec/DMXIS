@@ -1,0 +1,8 @@
+Lamp
+S,0,127,Off
+S,128,255,ON
+Speed
+S,0,0,Stop
+V,1,127,CW
+S,128,128,Stop
+V,129,255,CCW

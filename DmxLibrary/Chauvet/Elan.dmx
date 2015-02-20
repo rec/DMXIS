@@ -1,0 +1,10 @@
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,
+Strobe
+S,0,5,Off
+S,6,10,Black
+V,11,255,

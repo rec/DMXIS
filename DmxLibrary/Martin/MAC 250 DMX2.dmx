@@ -1,0 +1,90 @@
+Shutter
+S,0,19,Closed
+S,20,49,Open
+V,50,72,Strobe
+S,73,79,Open
+V,80,99,PulsA
+V,100,119,PulsB
+S,120,127,Open
+S,128,147,StrobeF
+S,148,167,StrobeM
+S,168,187,StrobeS
+S,188,190,Open
+S,191,193,PulsA Fast
+S,194,196,PulsA Slow
+S,197,199,PulsB Fast
+S,200,202,PulsB Slow
+S,203,207,Open
+S,208,217,RESET
+S,218,227,Open
+S,228,237,Lamp On
+S,238,247,Open
+S,248,255,Lamp Off
+Dimmer
+D,0,255,
+Color
+V,0,155,Scrl
+S,156,159,Purple
+S,160,163,Grn 202
+S,164,167,Orange
+S,168,171,Blue 101
+S,172,175,Magenta
+S,176,179,Red
+S,180,183,Blue 108
+S,184,187,Grn 206
+S,188,191,Pink
+S,192,195,Blue 104
+S,196,199,Yellow
+S,200,203,CTC
+S,204,207,White
+V,208,226,Fwd
+V,227,245,Bwd
+S,246,248,RndFast
+S,249,251,RndMed
+S,252,255,RndSlow
+Gobo
+S,0,9,Open
+S,10,19,Gobo1
+S,20,29,Gobo2
+S,30,39,Gobo3
+S,40,49,Gobo4
+S,50,59,Gobo5
+S,60,69,Gobo6
+S,70,79,Gobo7
+S,80,89,Gobo8
+V,90,104,Shk8
+V,105,119,Shk7
+V,120,134,Shk6
+V,135,149,Shk5
+V,150,164,Shk4
+V,165,179,Shk3
+V,180,194,Shk2
+V,195,209,Shk1
+V,210,232,Fwd
+V,233,255,Bwd
+Rotate
+V,0,255,
+Focus
+V,0,255
+Prism
+S,0,19,Off
+V,20,79,Bwd
+S,80,89,Stop
+V,90,149,Fwd
+S,150,215,Off
+S,216,220,Macro1
+S,221,225,Macro2
+S,226,230,Macro3
+S,231,235,Macro4
+S,236,240,Macro5
+S,241,245,Macro6
+S,246,250,Macro7
+S,251,255,Macro8
+Pan
+V,0,255,
+PanF
+V,0,255,
+Tilt
+V,0,255,
+TiltF
+V,0,255,

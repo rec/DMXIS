@@ -1,0 +1,8 @@
+Dimmer
+D,0,255,
+Strobe
+V,0,255,
+Pulse
+S,0,10,Full
+V,11,200,
+S,201,255,Random

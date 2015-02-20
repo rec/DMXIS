@@ -1,0 +1,8 @@
+Function
+S,0,119,Color
+S,120,239,Chase
+S,240,255,Standalone
+Col/Chase
+V,0,255,
+Speed
+V,0,255,

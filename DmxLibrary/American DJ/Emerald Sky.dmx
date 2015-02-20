@@ -1,0 +1,12 @@
+Mode
+B,0,0,Off
+S,1,52,Line
+S,53,104,Dot1
+S,105,156,Dot2
+S,157,207,Dot3
+S,208,225,3sec
+S,226,255,5sec
+Pattern
+S,0,1,Stop
+V,2,225,
+S,226,255,Sound

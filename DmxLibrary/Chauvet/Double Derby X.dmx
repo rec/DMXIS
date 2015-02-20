@@ -1,0 +1,8 @@
+Mode
+S,0,14,NoFn
+S,15,100,LEDs ON
+S,101,255,Auto
+Motor
+V,0,85,CCW
+V,86,170,CW
+V,171,255,Dual

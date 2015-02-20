@@ -1,0 +1,17 @@
+Mode
+S,0,53,OFF
+S,54,107,Manual
+S,108,162,Auto
+S,163,255,Sound
+Grid
+V,0,238,Pos
+S,239,255,Rotate
+Speed
+V,0,255,
+Strobe
+V,0,255,
+Color
+S,0,73,Red
+S,74,148,Green
+S,149,222,RedGreen
+S,223,255,Flash

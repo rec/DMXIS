@@ -1,0 +1,13 @@
+Color
+V,0,255,
+Rotate
+S,0,9,Stop
+V,10,120,CW
+S,121,134,Stop
+V,135,245,CCW
+S,246,255,Stop
+Strobe
+S,0,0,Off
+V,1,255,
+Dimmer
+D,0,255,

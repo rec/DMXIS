@@ -1,0 +1,64 @@
+Shutter
+S,0,7,Closed
+S,8,15,Open
+V,16,95,Strobe
+S,96,103,Open
+V,104,151,Rand
+S,152,159,Open
+V,160,199,TrigA
+S,200,207,Open
+V,208,247,TrigB
+S,248,251,Open
+S,252,255,Reset
+Dimmer
+D,0,255,
+Color
+V,0,119,Pos
+S,120,128,White
+S,129,135,Blue
+S,136,142,Red
+S,143,149,Yellow
+S,150,156,Magenta
+S,157,163,Cyan
+S,164,170,Green
+S,171,177,Orange
+S,178,184,Congo
+S,185,191,Pink
+V,192,215,CW
+V,216,239,CCW
+S,240,245,Trig Fast
+S,246,250,Trig Med
+S,251,255,Trig Slow
+Gobo
+S,0,15,Open
+S,16,31,Segments
+S,32,47,Vortex
+S,48,63,Wheel
+S,64,79,Delta
+S,80,95,Petals
+S,96,111,Straws
+S,112,127,Disc
+V,128,143,Shk1
+V,144,159,Shk2
+V,160,175,Shk3
+V,176,191,Shk4
+V,192,207,Shk5
+V,208,223,Shk6
+V,224,239,Shk7
+S,240,245,Trig Fast
+S,246,250,Trig Med
+S,251,255,Trig Slow
+GoboRot
+S,0,7,Stop
+V,8,77,CW
+V,78,147,CCW
+S,148,153,Stop
+V,154,223,CW
+S,224,239,Shake
+S,240,245,Trig Fast
+S,246,250,Trig Med
+S,251,255,Trig Slow
+Pan
+V,0,255,
+Tilt
+V,0,255,

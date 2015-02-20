@@ -1,0 +1,11 @@
+Strobe
+S,0,0,Off
+V,1,127,
+S,128,128,Off
+V,129,255,Dim
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,

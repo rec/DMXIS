@@ -1,0 +1,10 @@
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,
+Shutter
+V,0,189,
+V,190,250,Strobe
+S,251,255,FullOn

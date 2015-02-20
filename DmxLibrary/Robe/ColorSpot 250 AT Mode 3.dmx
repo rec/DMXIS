@@ -1,0 +1,111 @@
+Pan
+V,0,255,
+PanF
+V,0,255,
+Tilt
+V,0,255,
+TiltF
+V,0,255,
+Speed
+V,0,255
+Functions
+S,0,49,---
+S,50,59,PT Speed
+S,60,69,PT Time
+S,70,79,BoMv On
+S,80,89,BoMv Off
+S,90,99,BoCo On
+S,100,109,BoCo Off
+S,110,119,BoGb On
+S,120,129,BoGb Off
+S,130,139,LampON
+S,140,149,PT Rst
+S,150,159,Col Rst
+S,160,169,Gobo Rst
+S,170,179,Dim Rst
+S,180,189,Foc Rst
+S,190,199,Prsm Rst
+S,200,209,Full Rst
+S,210,229,---
+S,230,239,Lamp Off
+S,240,255,---
+Pt Macro
+S,0,9,Off
+S,10,31,---
+V,32,63,Circ
+V,64,95,F8H
+V,96,127,F8V
+V,128,159,Rect
+V,160,191,Tri
+V,192,223,Star
+V,224,255,X
+Mac Spd
+S,0,0,---
+V,1,127,Fwd
+S,1298,129,---
+V,130,255,Bwd
+Colour
+V,0,129,Scr
+S,130,135,DkGreen
+S,136,141,Red
+S,142,147,LtAzure
+S,148,153,Magenta
+S,154,159,UV
+S,160,165,Yellow
+S,166,171,Green
+S,172,183,Blue
+S,184,189,DkRed
+V,190,215,Fwd
+S,216,217,Stop
+V,218,243,Bwd
+S,244,249,Rand
+S,250,255,Auto
+ColourF
+V,0,255,
+RotGobo
+V,0,31,Idx
+S,32,35,Rot1
+S,36,39,Rot2
+S,40,43,Rot3
+S,44,47,Rot4
+S,48,51,Rot5
+S,52,55,Rot6
+S,56,59,Rot7
+V,60,129,Shk
+V,130,201,ShkR
+V,202,221,Fwd
+S,222,223,Stop
+V,224,243,Bwd
+S,244,249,Rand
+S,250,255,Auto
+GoboIdx
+V,0,255,
+GoboIdxF
+V,0,255,
+Prism
+S,0,19,Open
+S,20,159,Prism
+V,160,255,Mcro
+PrismRot
+S,0,0,Stop
+V,1,128,Fwd
+S,129,129,Stop
+V,130,255,Bwd
+Focus
+V,0,255,
+FocusF
+V,0,255,
+Shutter
+S,0,31,Closed
+S,32,63,---
+V,64,95,Strb
+S,96,127,---
+V,128,143,PlsA
+V,144,159,PlsB
+S,160,191,---
+V,192,223,Rand
+S,224,255,---
+Dimmer
+D,0,255,
+DimmerF
+V,0,255,

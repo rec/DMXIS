@@ -1,0 +1,77 @@
+Effect
+S,0,4,No fn
+V,5,68,Strobe
+S,69,100,Auto trig
+S,101,132,Music trig
+S,133,249,No fn
+S,250,255,Reset
+Intensity
+V,0,255,
+Gobo
+S,0,9,Gobo 1
+S,10,19,Gobo 2
+S,20,29,Gobo 3
+S,30,39,Gobo 4
+S,40,49,Gobo 5
+S,50,59,Gobo 6
+S,60,69,Gobo 7
+S,70,79,Gobo 8
+S,80,89,Gobo 9
+S,90,99,Gobo 10
+S,100,109,Gobo 11
+S,110,175,Blackout
+V,176,207,CW
+V,208,239,CCW
+S,240,244,Trig Fast
+S,245,249,Trig Slow
+S,250,255,Trig Dyn
+Shake
+S,0,1,Off
+V,2,128,Narr
+V,129,255,Wide
+Mirror
+S,0,1,Stop
+V,2,65,CCW
+V,66,129,CW
+V,130,192,Shake
+S,193,208,Random
+S,209,239,Stop
+S,240,244,Trig Fast
+S,245,249,Trig Slow
+S,250,255,Trig Dyn
+MirrPan
+V,0,127,Pos
+V,128,182,ShkA
+V,183,239,ShkB
+S,240,244,Trig Fast
+S,245,249,Trig Slow
+S,250,255,Trig Dyn
+MirrTilt
+S,0,1,Off
+V,2,63,CW
+S,64,65,Off
+V,66,127,CCW
+S,128,129,Off
+V,130,184,ShkA
+V,185,239,ShkB
+S,240,244,Trig Fast
+S,245,249,Trig Slow
+S,250,255,Trig Dyn
+Macros
+S,0,15,Off
+S,16,31,Macro 1
+S,32,47,Macro 2
+S,48,63,Macro 3
+S,64,79,Macro 4
+S,80,95,Macro 5
+S,96,111,Macro 6
+S,112,127,Macro 7
+S,128,143,Macro 8
+S,144,159,Macro 9
+S,160,175,Macro 10
+S,176,191,Macro 11
+S,192,207,Macro 12
+S,208,255,No fn
+FX-Speed
+S,0,1,Track
+V,2,255,

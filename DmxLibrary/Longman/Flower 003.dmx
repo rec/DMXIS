@@ -1,0 +1,20 @@
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,
+White
+D,0,255,
+Shutter
+S,0,14,dimmer
+V,15,255,strobe
+Mode
+S,0,31,invalid
+S,32,63,blk-brit
+S,64,95,brit-blk
+S,96,127,blk-brit-blk
+S,128,159,grad chg
+S,160,191,3ColJump
+S,192,223,7ColJump
+S,224,255,Sound

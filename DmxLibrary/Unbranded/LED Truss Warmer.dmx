@@ -1,0 +1,9 @@
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,
+Mode
+V,0,160,Dim
+V,161,255,Strb

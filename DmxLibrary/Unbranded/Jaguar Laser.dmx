@@ -1,0 +1,15 @@
+Mode
+S,0,127,Blackout
+S,128,255,ON
+Pattern
+V,0,255,
+Rotate
+S,0,63,Off
+S,64,127,Pan
+S,128,191,Tilt
+S,192,255,Both
+Center
+S,0,127,Off
+V,128,255,
+Speed
+V,0,255,

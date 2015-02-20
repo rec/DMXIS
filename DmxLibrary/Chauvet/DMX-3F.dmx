@@ -1,0 +1,11 @@
+Mode
+S,0,5,Off
+S,6,10,On
+S,11,15,Timer
+S,16,255,Manual
+Interval
+V,0,255,
+Duration
+V,0,255,
+Volume
+V,0,255,

@@ -1,0 +1,30 @@
+Pan
+V,0,255,
+Tilt
+V,0,255
+Strobe
+S,0,15,Off
+V,16,131,Type1
+S,132,139,Off
+V,140,181,Type2
+S,182,189,Off
+V,190,231,Type3,
+S,232,239,Off
+S,240,247,On
+S,248,255,Off
+Red
+V,0,255,
+Green
+V,0,255,
+Blue
+V,0,255,
+Dimmer
+D,0,255,
+Special
+S,0,69,Off
+S,70,79,BO On
+S,80,89,BO Off
+S,90,199,Off
+S,200,209,Reset
+S,210,239,Off
+S,240,255,Standalone

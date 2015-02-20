@@ -1,0 +1,11 @@
+Red
+V,0,255,
+Green
+V,0,255,
+Blue
+V,0,255,
+Dimmer
+D,0,255,
+Strobe
+S,0,10,Off
+V,11,255,

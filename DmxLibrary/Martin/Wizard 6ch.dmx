@@ -1,0 +1,68 @@
+Shutter
+B,0,1,Closed
+V,2,129,Open
+V,130,189,Strobe
+S,190,199,Closed
+S,200,209,Random
+S,210,219,Music
+S,220,229,Auto
+S,230,239,Closed
+S,240,249,Reset
+S,250,255,Lamp off
+Reflector
+S,0,1,Off
+V,2,122,Cw
+S,123,132,Off
+V,133,253,Ccw
+S,254,255,Off
+Color
+S,0,5,Open
+S,6,11,Open/Blue
+S,12,17,Blue
+S,18,23,Blue/Ornge
+S,24,29,Orange
+S,30,35,Ornge/Purp
+S,36,41,Purple
+S,42,47,Purp/Green
+S,48,53,Green
+S,54,59,Green/Blue
+S,60,65,Blue
+S,66,71,Blue/Yellw
+S,72,77,Yellow
+S,78,83,Yell/Mag
+S,84,89,Magenta
+S,90,95,Mag/Open
+S,96,101,Open
+V,102,169,Rotate
+S,170,175,No rotate
+V,176,243,Twinkle
+S,244,249,No rotate
+S,250,255,Remote
+Gobo
+S,0,10,Open
+S,11,22,Gridball
+S,23,34,Virus
+S,35,46,Tunnel
+S,47,58,Tripledot
+S,59,70,Whirl
+S,71,82,Cone
+S,83,94,Wizard
+S,95,106,Spokes
+S,107,118,Splat
+S,119,130,Halo
+S,131,142,Ying Yang
+S,143,154,Dot
+S,155,169,Butterfly
+V,170,239,Rotate
+S,240,249,No rotate
+S,250,255,Remote
+Swivel
+V,0,126,Left
+S,127,127,Neutral
+V,128,255,Right
+Rotate
+S,0,1,No rotate
+V,2,122,Cw
+S,123,132,No rotate
+V,133,253,Ccw
+S,254,255, No rotate

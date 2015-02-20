@@ -1,0 +1,41 @@
+Pan
+V,0,255,
+Tilt
+V,0,255,
+Dimmer
+B,0,7,Closed
+V,8,134,
+V,135,239,Strobe
+S,240,255,Open
+Col Macro
+S,0,7,Off
+S,8,21,White
+S,22,35,Red
+S,36,49,Green
+S,50,63,Blue
+S,64,77,Cyan
+S,78,91,Magenta
+S,92,105,Yellow
+S,106,119,Purple
+S,120,133,Orange
+S,134,147,Chartreuse
+S,148,161,Pink
+S,162,175,Brown
+S,176,189,Gold
+S,190,203,Crimson
+S,204,217,Violet
+S,218,231,Crepe
+S,232,244,Change1
+S,245,255,Change2
+Gobo
+S,0,12,Spot
+S,13,25,Sparks
+S,26,38,Tube
+S,38,51,Flower
+S,52,64,Tunnel
+S,65,77,Dots A
+S,78,90,Dots B
+S,91,103,Swirl
+S,104,116,Abstract
+S,117,127,Matting
+V,128,255,Scroll

@@ -1,0 +1,32 @@
+Speed
+V,0,219,
+S,220,239,Snd Slow
+S,240,255,Snd Fast
+Color
+B,0,9,Closed
+S,10,19,White
+S,20,29,Magenta
+S,30,39,Amber
+S,40,49,Cyan
+S,50,59,DkGreen
+S,60,69,Pink
+S,70,79,Blue
+S,80,89,Red
+S,90,99,Yellow
+S,100,109,Green
+S,110,119,DkRed
+S,120,129,DkPink
+S,130,139,UV
+S,140,149,LtBlue
+S,150,159,Orange
+V,160,255,Scroll
+Strobe
+S,0,100,Off
+S,101,120,1 Hz
+S,121,140,2 Hz
+S,141,160,3 Hz
+S,161,180,4 Hz
+S,181,200,5 Hz
+S,201,255,6 Hz
+Dimmer
+V,0,255,

@@ -1,0 +1,18 @@
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,
+Macro
+S,0,7,Off
+V,8,255,
+Speed
+S,0,16,Off
+V,17,255,
+Mode
+S,0,31,No Fn
+S,32,95,ColMix
+S,96,159,ColChange
+S,160,223,7ColChg
+S,224,255,SoundAct

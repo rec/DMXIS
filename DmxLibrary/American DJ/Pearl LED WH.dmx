@@ -1,0 +1,11 @@
+Dimmer
+S,0,7,Closed
+D,8,199,
+V,200,247,Strobe
+S,248,255,Open
+Rotate
+S,0,9,Stop
+V,10,120,Bwd
+S,121,134,Stop
+V,135,245,Fwd
+S,246,255,Stop

@@ -1,0 +1,13 @@
+Dimmer
+S,0,7,Closed
+V,8,199,
+V,200,247,Strb
+S,248,255,Open
+Color
+V,0,255,
+Rotate
+S,0,9,Stop
+V,10,120,CW
+S,121,134,Stop
+V,135,245,CCW
+S,246,255,Stop

@@ -1,0 +1,11 @@
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,
+Dimmer
+S,0,0,Off
+V,1,189,
+V,190,250,Flash
+S,251,255,On

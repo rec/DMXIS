@@ -1,0 +1,79 @@
+Function
+S,0,4,None
+V,5,68,Strobe
+S,69,100,Auto
+S,101,112,Macro 1
+S,113,124,Macro 2
+S,125,136,Macro 3
+S,137,148,Macro 4
+S,149,160,Macro 5
+S,161,172,Macro 6
+S,173,184,Macro 7
+S,185,196,Macro 8
+S,197,208,Macro 9
+S,209,220,Macro 10
+S,221,232,Macro 11
+S,233,249,Macro 12
+S,250,255,Reset
+Intensity
+V,0,255,
+Color
+S,0,5,White
+S,6,11,Wht/Bl
+S,12,17,Blue B04
+S,18,23,Bl/Or
+S,24,29,Orange
+S,30,35,Or/Rd
+S,36,41,Red B01
+S,42,47,Rd/LtY
+S,48,53,LtYell
+S,54,59,LtY/Pnk
+S,60,65,Pink B12
+S,66,71,Pnk/MdBl
+S,72,77,MedBlue
+S,78,83,MdBl/LtYl
+S,84,89,LtRed
+S,90,95,LtRd/LtGn
+S,96,101,LtGreen
+S,102,107,LtGn/Bl
+S,108,113,Blue B05
+S,114,119,Bl/Pnk
+S,120,125,Pink B11
+S,126,131,Pnk/LtBl
+S,132,137,LtBlue
+S,138,143,LtBl/Yell
+S,144,149,Yell
+S,150,155,Yell/Rd
+S,156,161,Red
+S,162,167,Red/Gn
+S,168,173,Green
+S,174,179,Mix1
+S,180,185,Mix2
+S,186,191,Mix3
+S,192,197,Mix4
+S,198,203,Mix5
+V,204,229,CW
+V,230,255,CCW
+Gobo
+S,0,11,Open
+S,12,23,Dune
+S,24,35,Sun
+S,36,47,Gemini
+S,48,59,MrSpok
+S,60,71,Triptych
+S,72,83,SpaceLice
+S,84,95,Nova
+S,96,107,Saw
+S,108,119,Racer
+S,120,131,BlkHole
+S,132,143,Bat
+S,144,155,Beep
+S,156,167,Fame
+S,168,179,Thatch
+S,180,191,Blackout
+V,192,223,CW
+V,224,255,CCW
+Pan
+V,0,255,
+Tilt
+V,0,255,

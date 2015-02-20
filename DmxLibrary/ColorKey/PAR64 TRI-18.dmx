@@ -1,0 +1,15 @@
+Dimmer
+D,0,255,
+Red
+V,0,255,
+Green
+V,0,255,
+Blue
+V,0,255,
+Mode
+S,0,4,Blackout
+S,5,84,ColMicro
+S,85,169,ColJump
+S,170,255,ColFade
+Strobe
+V,0,255,

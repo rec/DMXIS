@@ -1,0 +1,13 @@
+Mode
+S,0,29,Dimmer
+S,30,59,Prog1
+S,60,89,Prog2
+S,90,119,Prog3
+S,120,149,Prog4
+S,150,179,Prog5
+S,180,209,Prog6
+S,210,255,Sound
+Speed
+V,0,255,
+Intensity
+V,0,255,

@@ -1,0 +1,42 @@
+Gobo
+B,0,9,Closed
+S,10,19,Open
+S,20,29,Gobo 1
+S,30,39,Gobo 2
+S,40,49,Gobo 3
+S,50,59,Gobo 4
+S,60,69,Gobo 5
+S,70,79,Gobo 6
+S,80,89,Gobo 7
+S,90,99,Gobo 8
+S,100,109,Gobo 9
+S,110,119,Gobo 10
+S,120,129,Gobo 11
+S,130,139,Gobo 12
+S,140,149,Gobo 13
+S,150,159,Gobo 14
+V,160,249,Spin
+S,250,255,Sound
+Color
+S,0,9,White
+S,10,19,Open
+S,20,29,Col 1
+S,30,39,Col 2
+S,40,49,Col 3
+S,50,59,Col 4
+S,60,69,Col 5
+S,70,79,Col 6
+S,80,89,Col 7
+S,90,99,Col 8
+S,100,109,Col 9
+S,110,119,Col 10
+V,120,255,Spin
+Strobe
+S,0,45,Off
+V,46,115,Both
+V,116,185,Col
+V,186,255,Gobo
+Pan
+V,0,255,
+Tilt
+V,0,255,

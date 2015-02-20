@@ -1,0 +1,11 @@
+Shutter
+S,0,1,Off
+V,2,152,Fade
+V,153,243,Strobe
+S,244,255,On
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,

@@ -1,0 +1,17 @@
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,
+Macro
+V,0,255,
+Strob/Spd
+V,0,255,
+Presets
+S,0,127,Off
+S,128,159,Fade
+S,160,223,Chase1
+S,224,255,Chase2
+Dimmer
+V,0,255,

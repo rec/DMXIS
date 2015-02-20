@@ -1,0 +1,9 @@
+Mode
+B,0,10,Blackout
+S,11,20,Open
+S,21,80,Strobe
+S,81,115,Slow
+S,116,140,Medium
+S,141,175,Fast
+S,176,210,Random
+S,211,255,Manual

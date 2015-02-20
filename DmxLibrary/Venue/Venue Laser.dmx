@@ -1,0 +1,17 @@
+Mode
+B,0,20,Off
+S,21,120,Dynamic
+S,121,220,Static
+S,221,255,Sound
+Pattern
+V,0,255,
+Pan
+V,0,255,
+Tilt
+V,0,255,
+ScanSpd
+V,0,255,
+PattSpd
+V,0,255,
+Size
+V,0,255,

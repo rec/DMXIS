@@ -1,0 +1,16 @@
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,
+Mode
+S,0,28,RGB
+S,29,56,Auto1
+S,57,84,Auto2
+S,85,112,Auto3
+S,113,140,Auto4
+S,141,168,Auto5
+S,169,196,Auto6
+S,197,224,Auto7
+S,225,255,Auto8

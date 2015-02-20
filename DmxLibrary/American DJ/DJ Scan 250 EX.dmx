@@ -1,0 +1,37 @@
+Pan
+V,0,255,
+Tilt
+V,0,255,
+Color
+S,0,10,White
+S,11,21,Red
+S,22,32,DeepBlue
+S,33,43,Green
+S,44,54,Yellow
+S,55,65,Orange
+S,66,76,Pink
+S,77,87,LBlue
+S,88,98,UV
+S,99,109,Magenta
+S,110,120,Ora+Red
+S,121,127,LtBl+Mag
+V,128,255,Spin
+Gobo
+S,0,11,Open
+S,12,23,Gobo 1
+S,24,35,Gobo 2
+S,36,47,Gobo 3
+S,48,59,Gobo 4
+S,60,71,Gobo 5
+S,72,83,Gobo 6
+S,84,95,Gobo 7
+S,96,107,Gobo 8
+S,108,119,Gobo 9
+S,120,127,Gobo 10
+V,128,255,Spin
+Strobe
+B,0,7,Blackout
+S,8,15,Open
+V,16,131,Strb
+V,132,247,Shk
+S,248,255,Open

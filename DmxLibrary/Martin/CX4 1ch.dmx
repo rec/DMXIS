@@ -1,0 +1,9 @@
+Mode
+B,0,10,Blackout
+S,11,20,Open
+V,21,80,Strobe
+S,81,115,MusicS
+S,116,140,MusicM
+S,141,175,MusicF
+S,176,210,MusicR
+S,211,255,Manual

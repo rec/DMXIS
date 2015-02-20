@@ -1,0 +1,12 @@
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,
+Strobe
+S,0,7,Off
+S,8,190,Open
+S,191,200,Sound
+V,201,247,
+S,248,255,Open

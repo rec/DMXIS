@@ -1,0 +1,15 @@
+Mode
+S,0,50,OFF
+S,51,101,Manual
+S,102,152,Auto
+S,153,255,Sound
+Grid
+V,0,224,Pos
+S,225,240,Fwd
+S,241,255,Bwd
+Speed
+V,0,255,
+Strobe
+V,0,255,
+Color
+V,0,255,
