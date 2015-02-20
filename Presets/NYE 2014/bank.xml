@@ -26,5 +26,6 @@
     <Preset name="024 lasers 4" crossfade="0.000000" />
     <Preset name="025 lasers 5" crossfade="0.000000" />
     <Preset name="026 everything" crossfade="15.359974" />
+    <Preset name="999 clear" crossfade="0.000000" />
 </Order>
 <Tempo val="120.000000" />
